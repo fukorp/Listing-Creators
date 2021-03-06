@@ -11,10 +11,12 @@ color: orange;
 h3{
 font-size: x-large;
 text-decoration: underline;
-
 }
 
 p{
 font-size: larger;
-text-align: center;
+}
+.imageflottante
+{
+    float: left;
 }
