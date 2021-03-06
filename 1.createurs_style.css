@@ -1,14 +1,17 @@
 h2{
 font-style: italic;
 color: orange;
+font-family: Verdana;
 }
 
 h3{
 font-size: x-large;
 text-decoration: underline;
+font-family: Verdana;
 }
 
 li{
 color: blue;
 font-size: larger;
+font-family: Verdana;
 }
