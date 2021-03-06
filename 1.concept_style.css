@@ -22,8 +22,5 @@ font-size: larger;
 }
 .imageflottante2
 {
-	width: 200px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+	float: right;
 }
