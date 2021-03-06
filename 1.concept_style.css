@@ -16,3 +16,7 @@ text-decoration: underline;
 p{
 font-size: larger;
 }
+.imageflottante
+{
+    float: left;
+}
