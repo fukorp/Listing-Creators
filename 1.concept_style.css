@@ -21,7 +21,5 @@ font-size: larger;
     float: left;
 }
 .imageflottante2{
-    background-attachment: fixed; /* Le fond restera fixe */
-    background-repeat: no-repeat; /* Le fond ne sera pas répété */
-    background-position: bottom center; 
+    float: right;
 }
