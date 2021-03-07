@@ -23,3 +23,7 @@ font-size: larger;
 .imageflottante2{
     float: right;
 }
+a:hover
+{
+   color: maroon;
+}

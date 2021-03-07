@@ -12,3 +12,7 @@ h3{
 font-size: x-large;
 text-decoration: underline;
 }
+a:hover
+{
+   color: maroon;
+}
