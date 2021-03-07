@@ -16,18 +16,17 @@ text-decoration: underline;
 p{
 font-size: larger;
 }
-.imageflottante
-{
-    float: left;
-    border: 1px solid black;
-    box-shadow: 2px 2px 2px black;
+
+.imageflottante{
+float: left;
+border: 1px solid black;
+box-shadow: 2px 2px 2px black;
 }
 
-a:hover
-{
-   color: maroon;
+a:hover{
+color: maroon;
 }
 
 figure {
-  text-align:center;
+text-align:center;
 }

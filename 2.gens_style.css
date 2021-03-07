@@ -16,7 +16,7 @@ text-decoration: underline;
 p1{
 font-size: larger;
 }
-a:hover
-{
-   color: maroon;
+
+a:hover{
+color: maroon;
 }
