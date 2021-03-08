@@ -16,7 +16,11 @@ text-decoration: underline;
 
 p{
 font-size: larger;
-text-align: center;
+ width: 350px;
+   border: 1px solid black;
+   text-align: justify;
+   padding: 12px;
+   margin: 50px;
 }
 
   
