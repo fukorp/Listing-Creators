@@ -1,7 +1,6 @@
 body{
 background-color: #f3ebe8;
 font-family: Verdana;
-text-shadow: 5px 5px 1px black;
 }
 
 h2{
@@ -16,11 +15,6 @@ text-decoration: underline;
 
 p{
 font-size: larger;
- width: 350px;
-   border: 1px solid black;
-   text-align: justify;
-   padding: 12px;
-   margin: 50px;
 }
 
   
