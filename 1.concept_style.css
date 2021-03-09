@@ -1,7 +1,6 @@
 body{
 background-color: #f3ebe8;
 font-family: Verdana;
-text-shadow: 5px 5px 1px black;
 }
 
 h2{
@@ -14,13 +13,13 @@ font-size: x-large;
 text-decoration: underline;
 }
 
-p{
+div{
 font-size: larger;
- width: 350px;
-   border: 1px solid black;
-   text-align: justify;
-   padding: 12px;
-   margin: 50px;
+width: 75%;
+border: 1px solid black;
+text-align: justify;
+padding: 12px;
+margin: 50px;
 }
 
   
