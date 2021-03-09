@@ -15,9 +15,10 @@ text-decoration: underline;
 
 p{
 font-size: larger;
-border-radius: 10px;
+border: 3px black solid;
+text-align: justify;
+box-shadow: 11px 11px 11px black;
 }
-
   
 a:hover{
 color: navy;
