@@ -13,13 +13,16 @@ font-size: x-large;
 text-decoration: underline;
 }
 
+h4{
+font-size: larger;	
+}
 p{
 font-size: larger;
 border: 3px black solid;
 text-align: justify;
 box-shadow: 11px 11px 11px black;
 }
-  
+
 a:hover{
 color: navy;
 }
