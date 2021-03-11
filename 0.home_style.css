@@ -20,8 +20,3 @@ font-size: large;
 a:hover{
 color: navy;
 }
-#entete {
-background-image: url("divers\Mario.jpg"); 
-background-repeat: no-repeat;   
-background-attachment: left;
-}
