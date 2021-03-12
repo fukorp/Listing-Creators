@@ -20,3 +20,9 @@ font-size: larger;
 a:hover{
 color: navy;
 }
+
+#entete {
+background-image: url('file:///Users/Mathis/Documents/GitHub/Listing-Creators/divers/Mario.jpg'); /* nom du fichier sans accent */
+background-repeat: no-repeat;   /* Evite la répétition de l'image */
+background-attachment: left;
+}

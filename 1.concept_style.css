@@ -28,3 +28,9 @@ color: navy;
 figure {
 text-align:center;
 }
+
+#entete {
+background-image: url('Mario.jpg'); /* nom du fichier sans accent */
+background-repeat: no-repeat;   /* Evite la répétition de l'image */
+background-attachment: left;
+}
