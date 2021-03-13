@@ -1,26 +1,53 @@
-body{
-font-family: Verdana;
-background-color: #f3ebe8;
+body, html, header, h1{
+	margin: 0px;
+	padding: 0px;
 }
 
+header, body, html{
+	width: 100%;
+	height: 100%;
+}
+
+header{
+	background: url("divers/home.png")no-repeat center center;
+	background-size: cover;;
+}
+body{
+	font-family: Verdana;
+	background-color: #f3ebe8;
+}
+
+h1{
+	font-size: 55px;
 }
 h2{
-font-style: italic;
-color: orange;
+	font-size: 23px
+	font-style: italic;
+	color: orange;
 }
 
 h3{
-font-size: x-large;
-text-decoration: underline;
+	font-size: x-large;
+	text-decoration: underline;
 }
 
 li{
-font-size: larger;
+	font-size: larger;
 }
 
 a:hover{
-color: navy;
+	color: navy;
 }
 
+.wrapper{
+	display: table;
+	width: 100%;
+	height: 100%;
+}
 
-
+.content{
+	display: table-cell; 
+	text-align: center;
+	vertical-align: middle;
+	text-shadow: 1px 1px 8px black;
+}
