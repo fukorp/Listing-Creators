@@ -1,6 +1,17 @@
+a:hover{
+	color: navy;
+}
+
 body{
 	background-color: #f3ebe8;
 	font-family: Verdana;
+}
+
+div{
+	font-size: larger;
+	text-align: justify;
+	padding: 12px;
+	margin: 50px;
 }
 
 h2{
@@ -13,19 +24,4 @@ h3{
 	text-decoration: underline;
 }
 
-div{
-	font-size: larger;
-	text-align: justify;
-	padding: 12px;
-	margin: 50px;
-}
-
-  
-a:hover{
-	color: navy;
-}
-
-figure {
-	text-align:center;
-}
 

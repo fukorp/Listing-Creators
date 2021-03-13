@@ -1,24 +1,30 @@
+a:hover{
+	color: navy;
+}
+
 body{
-background-color: #f3ebe8;
-font-family: Verdana;
+	background-color: #f3ebe8;
+	font-family: Verdana;
 }
 
 h2{
-font-style: italic;
-color: orange;
+	font-style: italic;
+	color: orange;
 }
 
 h3{
-font-size: x-large;
-text-decoration: underline;
+	font-size: x-large;
+	text-decoration: underline;
 }
 
 p{
-font-weight : bold;
-font-size: xx-large;
-color: olive;
+	font-weight : bold;
+	font-size: xx-large;
+	color: olive;
 }
 
-a:hover{
-color: navy;
+.p1{
+	font-style: large;
+	color: black;
+	font-weight: bold;
 }

@@ -1,3 +1,7 @@
+a:hover{
+	color: navy;
+}
+
 body{
 	background-color: #f3ebe8;
 	font-family: Verdana;
@@ -15,8 +19,4 @@ h3{
 
 li{
 	font-size: larger;
-}
-
-a:hover{
-	color: navy;
 }

@@ -1,17 +1,7 @@
-body, html, header, h1{
-	margin: 0px;
-	padding: 0px;
+a:hover{
+	color: navy;
 }
 
-header, body, html{
-	width: 100%;
-	height: 100%;
-}
-
-header{
-	background: url("divers/home.png")no-repeat center center;
-	background-size: cover;;
-}
 body{
 	font-family: Verdana;
 	background-color: #f3ebe8;
@@ -20,6 +10,7 @@ body{
 h1{
 	font-size: 55px;
 }
+
 h2{
 	font-size: 23px
 	font-style: italic;
@@ -31,6 +22,11 @@ h3{
 	text-decoration: underline;
 }
 
+header{
+	background: url("divers/home.png")no-repeat center center;
+	background-size: cover;;
+}
+
 li{
 	font-size: larger;
 }
@@ -39,8 +35,12 @@ main{
 	max-width: 650px;
 	margin: 80px auto;
 }
-a:hover{
-	color: navy;
+
+.content{
+	display: table-cell; 
+	text-align: center;
+	vertical-align: middle;
+	text-shadow: 1px 1px 8px black;
 }
 
 .wrapper{
@@ -49,9 +49,12 @@ a:hover{
 	height: 100%;
 }
 
-.content{
-	display: table-cell; 
-	text-align: center;
-	vertical-align: middle;
-	text-shadow: 1px 1px 8px black;
+body, html, header, h1{
+	margin: 0px;
+	padding: 0px;
+}
+
+header, body, html{
+	width: 100%;
+	height: 100%;
 }

@@ -1,3 +1,7 @@
+a:hover{
+	color: navy;
+}
+
 body{
 	background-color: #f3ebe8;
 	font-family: Verdana;
@@ -11,8 +15,4 @@ h2{
 h3{
 	font-size: x-large;
 	text-decoration: underline;
-}
-
-a:hover{
-	color: navy;
 }
