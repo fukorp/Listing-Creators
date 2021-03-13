@@ -35,6 +35,10 @@ li{
 	font-size: larger;
 }
 
+main{
+	max-width: 650px;
+	margin: 80px auto;
+}
 a:hover{
 	color: navy;
 }
