@@ -1,22 +1,22 @@
 body{
-background-color: #f3ebe8;
-font-family: Verdana;
+	background-color: #f3ebe8;
+	font-family: Verdana;
 }
 
 h2{
-font-style: italic;
-color: orange;
+	font-style: italic;
+	color: orange;
 }
 
 h3{
-font-size: x-large;
-text-decoration: underline;
+	font-size: x-large;
+	text-decoration: underline;
 }
 
-p1{
-font-size: larger;
+.p1{
+	font-size: larger;
 }
 
 a:hover{
-color: navy;
+	color: navy;
 }
