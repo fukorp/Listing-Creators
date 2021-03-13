@@ -36,6 +36,10 @@ main{
 	margin: 80px auto;
 }
 
+p{
+	text-align: center;
+}
+
 .content{
 	display: table-cell; 
 	text-align: center;
