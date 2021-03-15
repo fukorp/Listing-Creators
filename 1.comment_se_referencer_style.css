@@ -16,3 +16,8 @@ h3{
 	font-size: x-large;
 	text-decoration: underline;
 }
+
+body, html, header, h1{
+	margin: 0px;
+	padding: 0px;
+}
