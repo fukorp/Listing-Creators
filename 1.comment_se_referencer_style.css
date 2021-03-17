@@ -1,23 +1,23 @@
 a:hover{
-	color: navy;
+  color: navy;
 }
 
 body{
-	background-color: #f3ebe8;
-	font-family: Verdana;
+  background-color: #f3ebe8;
+  font-family: Verdana;
 }
 
 h2{
-	font-style: italic;
-	color: orange;
+  font-style: italic;
+  color: orange;
 }
 
 h3{
-	font-size: x-large;
-	text-decoration: underline;
+  font-size: x-large;
+  text-decoration: underline;
 }
 
 body, html, header, h1{
-	margin: 0px;
-	padding: 0px;
+  margin: 4px;
+  padding: 10px;
 }
