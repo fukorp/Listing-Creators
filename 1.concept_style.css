@@ -5,9 +5,7 @@ a:hover{
 body{
 	background-color: #f3ebe8;
 	font-family: Verdana;
-	cursor: crosshair;
-}
-
+}		
 div{
 	font-size: larger;
 	text-align: justify;
