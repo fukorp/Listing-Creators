@@ -24,6 +24,11 @@ h3{
   margin-left: 100px
 }
 
+h4{
+  padding: 1rem 4rem;
+  margin-left: 5rem;
+  text-align: justify;
+}
 header{
 	background: url("divers/home.png")no-repeat center center;
 	background-size: cover;;
@@ -39,7 +44,9 @@ main{
 }
 
 p{
-	text-align: center;
+  padding: 1rem 4rem;
+  margin-left: 5rem;
+  text-align: center;
 }
 
 .content{
@@ -55,9 +62,11 @@ p{
 	height: 100%;
 }
 
-body, html, header, h1{
-	margin:0px;
-	padding: 0px;
+
+
+html, body {
+  font-family: Verdana;
+  font-size:26px;
 }
 
 header, body, html{
