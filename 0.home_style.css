@@ -50,16 +50,16 @@ p{
 }
 
 .content{
-	display: table-cell; 
-	text-align: center;
-	vertical-align: middle;
-	text-shadow: 1px 1px 8px white;
+  display: table-cell; 
+  text-align: center;
+  vertical-align: middle;
+  text-shadow: 1px 1px 8px white;
 }
 
 .wrapper{
-	display: table;
-	width: 100%;
-	height: 100%;
+  display: table;
+  width: 100%;
+  height: 100%;
 }
 
 
